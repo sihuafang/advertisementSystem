@@ -1,1 +1,2 @@
-慕课网-广告系统学习项目
+# advertisementSystem
+A Spring Cloud based Ad management and retrieval system
